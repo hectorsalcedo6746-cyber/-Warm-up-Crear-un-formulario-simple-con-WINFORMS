@@ -1,0 +1,10 @@
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csproj.AssemblyReference.cache
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.Form1.resources
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.Properties.Resources.resources
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csproj.GenerateResource.cache
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe.config
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.exe
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\Hola_Mundo.pdb
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.exe
+C:\Users\salce\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\Hola_Mundo.pdb
