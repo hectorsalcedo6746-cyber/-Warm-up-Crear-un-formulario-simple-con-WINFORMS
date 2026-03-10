@@ -29,12 +29,12 @@ Luego realiza validaciones para verificar que:
 <img width="504" height="388" alt="Fig1" src="https://github.com/user-attachments/assets/f43695d0-54b9-4fb7-89a0-894f737d00cf" />
 
 
--La contraseña no contiene todos los caracteres esperados.
+- La contraseña no contiene todos los caracteres esperados.
 <img width="503" height="385" alt="Fig2" src="https://github.com/user-attachments/assets/cbeebd34-be37-402a-9516-eec46c8d2f1e" />
 
 
 - La contraseña cumpla con todos los criterios de seguridad.
-  <img width="505" height="410" alt="Fig3" src="https://github.com/user-attachments/assets/fb53c6d0-7dad-4137-9200-4260b6b14448" />
+<img width="505" height="410" alt="Fig3" src="https://github.com/user-attachments/assets/fb53c6d0-7dad-4137-9200-4260b6b14448" />
 
 
 
